@@ -5,9 +5,9 @@ a uselessly simple text-based data transfer protocol written in lua
 ```text
 Client                         Server
 
-1.0|CHAT|Player|Hello!  ─────►
+1.0|CHAT|Player|Hello!  ----->
 
-                      ◄─────  1.0|SERVER|Welcome!
+                        <-----  1.0|SERVER|Welcome!
 ```
 
 ## requirements
