@@ -25,7 +25,6 @@ while true do
         print(v)
     end
 
-    -- Ответ сервера
     io.write("\nServer > ")
     local text = io.read()
 
